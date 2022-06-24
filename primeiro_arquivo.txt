@@ -1,0 +1,2 @@
+Este é um arquivo de teste para entender o Git e o GitHub.
+git commit
