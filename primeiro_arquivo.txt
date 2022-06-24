@@ -1,2 +1,4 @@
-Este é um arquivo de teste para entender o Git e o GitHub.
-git commit
+Este é um arquivo de teste para entender o Git e o GPara salvar um ponto na linha do tempo usamos dois comando
+git add "nome do arquivo"
+git commit -m "mensagem do commit"
+comando push
